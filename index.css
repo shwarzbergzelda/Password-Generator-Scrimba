@@ -10,6 +10,7 @@ body {
 h1 {
     font-size: 100px;
     margin-bottom: 0;
+    font-weight: 900;
 }
 
 .green-header {
